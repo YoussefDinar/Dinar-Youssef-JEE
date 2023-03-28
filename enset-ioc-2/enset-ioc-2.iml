@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset2" name="Spring Application Context " removed="false">
+          <file>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar!/</file>
+          <file>file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar.sha1</file>
+          <file>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.23/spring-jcl-5.3.23.jar!/</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
