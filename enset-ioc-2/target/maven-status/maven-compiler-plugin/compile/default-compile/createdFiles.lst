@@ -1,9 +1,0 @@
-metier\MetierImpl.class
-ext\DaoImplVWS.class
-dao\DaoImpl.class
-ma\enset\Main.class
-pres\Pres2.class
-pres\Presentation.class
-dao\IDao.class
-metier\IMetier.class
-ext\DaoImpl2.class
