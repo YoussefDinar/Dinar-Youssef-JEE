@@ -1,4 +1,4 @@
-(Inversion de contrôle et Injection des dépendances)
+Inversion de contrôle et Injection des dépendances
 
 Introduction :
 Dans ce premier chapitre on a pu étudier les différents types de couplage (couplage fort / couplage faible) et les différentes manières d’injection de contrôle et injection de dépendances. c’est ce qu’on va essayer de mettre en pratique dans cette activité.
