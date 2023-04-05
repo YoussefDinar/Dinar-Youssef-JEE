@@ -24,5 +24,15 @@ PatientController:
 
 ![PatientController](https://user-images.githubusercontent.com/94021293/229955846-e63cc071-dd09-4ad4-b80e-a683b8bba8ce.png)
 
+Patient.html:
+
+![HTML](https://user-images.githubusercontent.com/94021293/229956150-9c9156d6-cc45-4d4d-8bff-700c88fa179d.png)
+
+PROP:
+
+![APP-PROP](https://user-images.githubusercontent.com/94021293/229956226-abfa51be-8c39-4a57-8118-2607760451e3.png)
+
+
+Main:
 
 ![Main](https://user-images.githubusercontent.com/94021293/229955557-0056cd24-b48a-48ae-a872-b7de0af38e9a.png)
