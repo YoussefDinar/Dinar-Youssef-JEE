@@ -1,4 +1,4 @@
-#JEE Activities
+#JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
 
 This repository contains :
 
