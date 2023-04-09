@@ -1,14 +1,1 @@
-#JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
-
-This repository contains :
-
-
-activity1:
-https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/enset-ioc-2
-
-
-activity2:
-https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap
-
-activity3:
-https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap2
+                        #Activité N°2 part 3 : Use Case JPA Hibernate Spring Data Many To Many Case
