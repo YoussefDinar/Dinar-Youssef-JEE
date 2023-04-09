@@ -1,5 +1,33 @@
                         #Activité N°2 part 3 : Use Case JPA Hibernate Spring Data Many To Many Case
 
+Package entities :
+
+![entities](https://user-images.githubusercontent.com/94021293/230790706-9fcf0644-4838-459d-b5ce-5997b2ba23c2.png)
+
+
+Package repositories :
+
+![repositories](https://user-images.githubusercontent.com/94021293/230790718-f56973ad-39c4-4e6b-b2e7-cbc806cbce20.png)
+
+
+Package service :
+
+![srvc](https://user-images.githubusercontent.com/94021293/230790724-ae1a4030-e9c3-463d-897c-5281fdd94537.png)
+
+
+Package web :
+
+
+![web](https://user-images.githubusercontent.com/94021293/230790731-cc13661c-f09c-4282-9dd4-685d3931f631.png)
+
+
+La classe JpaEmsiApplication :
+
+![jpaapp](https://user-images.githubusercontent.com/94021293/230790740-45c9d39b-8bbd-40b7-8a18-ee946d581eb9.png)
+
+
+
+RESULTATS:
 
 
 ![console](https://user-images.githubusercontent.com/94021293/230789428-c5c0808e-4b80-4efd-a78b-56b8a8bcae3a.png)
