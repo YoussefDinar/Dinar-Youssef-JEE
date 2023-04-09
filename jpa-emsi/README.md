@@ -1,5 +1,9 @@
                         #Activité N°2 part 3 : Use Case JPA Hibernate Spring Data Many To Many Case
 
+Packages:
+
+![pkg](https://user-images.githubusercontent.com/94021293/230790795-69a43233-c6e3-4518-a58e-bf267092bdac.png)
+
 Package entities :
 
 ![entities](https://user-images.githubusercontent.com/94021293/230790706-9fcf0644-4838-459d-b5ce-5997b2ba23c2.png)
