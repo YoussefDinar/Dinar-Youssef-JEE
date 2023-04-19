@@ -4,19 +4,19 @@
 
 Packages:
 
-![PackageS](https://user-images.githubusercontent.com/94021293/229955435-ead3ba00-cfc7-4b5f-84c5-cc3dc437d366.png)
+![pkg](https://user-images.githubusercontent.com/94021293/232935125-8fa17414-0a50-4204-955f-81c6caa44736.png)
 
-Patient:
 
-![Patient](https://user-images.githubusercontent.com/94021293/229955656-baa252aa-b34d-4964-9d5b-99de0ffd9099.png)
+Patient et PatientRepos:
 
-PatientRepos:
+![entities et repositories](https://user-images.githubusercontent.com/94021293/232935267-1795381c-c576-417c-845d-0055f179376b.png)
 
-![PatientRepo](https://user-images.githubusercontent.com/94021293/229955727-ffe65cc3-7ee9-42f0-8494-ce687662ef60.png)
+
 
 PatientController:
 
-![PatientController](https://user-images.githubusercontent.com/94021293/229955846-e63cc071-dd09-4ad4-b80e-a683b8bba8ce.png)
+![patientController](https://user-images.githubusercontent.com/94021293/232935412-afd9d413-6172-4b79-87f7-491d311fcbea.png)
+
 
 Patient.html:
 
