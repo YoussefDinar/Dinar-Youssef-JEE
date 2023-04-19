@@ -1,4 +1,4 @@
-# Activite 3-JEE
+# Activite 3-JEE : Spring Boot Spring MVC Thymeleaf Spring Data (part 1 + 2)
 
 
 
