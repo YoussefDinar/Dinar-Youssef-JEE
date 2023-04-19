@@ -18,18 +18,31 @@ PatientController:
 ![patientController](https://user-images.githubusercontent.com/94021293/232935412-afd9d413-6172-4b79-87f7-491d311fcbea.png)
 
 
-Patient.html:
+Templates:
+
+![temp1](https://user-images.githubusercontent.com/94021293/232936228-d3b7555f-4822-4bc9-9ae6-6fe4067091c5.png)
+
+
+![patients](https://user-images.githubusercontent.com/94021293/232936424-11a17cc0-4e03-4165-a799-1ec7919813d2.png)
+
+
+![formPatient](https://user-images.githubusercontent.com/94021293/232936491-86135a3b-d21a-4ab1-a572-7673afcce605.png)
+
+
+![editPatient](https://user-images.githubusercontent.com/94021293/232936575-b99cc998-7776-4df2-90a3-b87c4b7876dc.png)
 
 
 
 PROP:
 
-
+![prop](https://user-images.githubusercontent.com/94021293/232936032-aed59f8a-fece-4f3e-b99f-e247eb1c4fe0.png)
 
 
 Main:
 
-![Main](https://user-images.githubusercontent.com/94021293/229955557-0056cd24-b48a-48ae-a872-b7de0af38e9a.png)
+![main](https://user-images.githubusercontent.com/94021293/232936091-7b3068cc-0dc6-4c50-9e60-3efa4436b9b6.png)
+
+
 
 
 
