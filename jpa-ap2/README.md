@@ -35,8 +35,22 @@ Main:
 
 Liste des patients:
 
-![index](https://user-images.githubusercontent.com/94021293/229955322-962df31f-bf54-4bca-a6a6-e5ceb1db4b60.png)
+![home](https://user-images.githubusercontent.com/94021293/232935607-734c9ca5-c966-49fc-9527-031d6b2b2763.png)
+
 
 Recherche et suppression :
 
-![recherche et Del](https://user-images.githubusercontent.com/94021293/229955391-1ab9717a-4aae-4540-b5b6-1e3f029258ff.png)
+![search](https://user-images.githubusercontent.com/94021293/232935631-5bae3f76-fe9c-46a8-8a86-592de1195877.png)
+
+![supprime](https://user-images.githubusercontent.com/94021293/232935646-2551bdca-39ad-4823-a102-7c2a8164332b.png)
+
+![add patient](https://user-images.githubusercontent.com/94021293/232935723-18370099-9408-41fe-895f-35ace7a5cb40.png)
+
+![add done](https://user-images.githubusercontent.com/94021293/232935736-bf875ab4-6128-41be-92dd-02e56709e3b6.png)
+
+![modifie](https://user-images.githubusercontent.com/94021293/232935753-aedea5fe-f05b-47b0-b881-3f366435a8d0.png)
+
+![test modifie](https://user-images.githubusercontent.com/94021293/232935757-edb2b3a2-7ca8-4a06-be62-b88617078b98.png)
+
+
+
