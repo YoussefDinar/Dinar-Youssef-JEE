@@ -20,11 +20,11 @@ PatientController:
 
 Patient.html:
 
-![HTML](https://user-images.githubusercontent.com/94021293/229956150-9c9156d6-cc45-4d4d-8bff-700c88fa179d.png)
+
 
 PROP:
 
-![APP-PROP](https://user-images.githubusercontent.com/94021293/229956226-abfa51be-8c39-4a57-8118-2607760451e3.png)
+
 
 
 Main:
@@ -44,9 +44,14 @@ Recherche et suppression :
 
 ![supprime](https://user-images.githubusercontent.com/94021293/232935646-2551bdca-39ad-4823-a102-7c2a8164332b.png)
 
+Ajout patient:
+
 ![add patient](https://user-images.githubusercontent.com/94021293/232935723-18370099-9408-41fe-895f-35ace7a5cb40.png)
 
 ![add done](https://user-images.githubusercontent.com/94021293/232935736-bf875ab4-6128-41be-92dd-02e56709e3b6.png)
+
+
+Modifier:
 
 ![modifie](https://user-images.githubusercontent.com/94021293/232935753-aedea5fe-f05b-47b0-b881-3f366435a8d0.png)
 
