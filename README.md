@@ -28,6 +28,6 @@ part1 + part2:
 https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap2
 
 
-activity4:
+activity4 (etat d avancement):
 
 https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap2%20secured
