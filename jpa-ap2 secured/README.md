@@ -13,3 +13,8 @@ etat d'avancement du tp4:
 ![securityConfig](https://user-images.githubusercontent.com/94021293/234411600-273cd167-75f7-4ecc-8320-8c1f658c2d30.png)
 
 ![passencoder](https://user-images.githubusercontent.com/94021293/234411622-ed27b2af-bd93-4af4-8b11-8ff9ec4f5f03.png)
+
+
+![formLOGIN](https://user-images.githubusercontent.com/94021293/234439442-edab2d0a-5e1d-4b51-92c6-3fe5eaefb4cb.png)
+
+![userSuppnotAuth](https://user-images.githubusercontent.com/94021293/234439447-06c503b3-6274-4fc1-b197-4fed7ad446f7.png)
