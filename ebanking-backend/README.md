@@ -1,6 +1,6 @@
 #JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
 
-Part 1 - Spring Angular Use case Digital Banking
+
 
 
 ![packages](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/165ef8ab-655e-46aa-a349-1be05d238d7c)
