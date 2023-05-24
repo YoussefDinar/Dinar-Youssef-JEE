@@ -33,5 +33,6 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap2
 https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/jpa-ap2%20secured
 
 #activity5 :
-part1:
+
+
 https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/ebanking-backend
