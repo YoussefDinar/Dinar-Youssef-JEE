@@ -21,4 +21,14 @@
 
 ![customer](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/47480c27-ebcb-4fd7-b67b-1fe2595f313c)
 
+![accounts](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/95c3dbd7-f074-45c3-8f90-eea8a13897e4)
+
+![operations](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/f8d73bfa-1416-4400-baea-6ce863dbc019)
+
+![pageOperations](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/de6bb2dc-9302-4d63-b581-e7b7f94508a1)
+
+![page1](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/8f0c5395-8923-44c2-8eb4-ff07ab379151)
+
+
+
 
