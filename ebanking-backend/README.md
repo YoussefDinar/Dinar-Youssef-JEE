@@ -1,9 +1,11 @@
 #JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
 
 
-
+PACKAGES:
 
 ![packages](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/07fa58a4-a860-40c3-8435-b14957c8bc78)
+
+Screens du code source :
 
 ![entities](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/0fd07143-6680-44f1-96e4-6bbc838ae2bb)
 
