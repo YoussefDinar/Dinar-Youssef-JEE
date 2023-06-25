@@ -6,7 +6,6 @@
 
 ![prod1](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/e6538195-42bf-4f49-b715-83994ad0e040)
 
-![affch liste](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/bf128812-5c95-42e6-98b5-89dc2af97074)
 
 ![affch liste](https://github.com/YoussefDinar/Dinar-Youssef-JEE/assets/94021293/f24c8628-8e3a-4209-b708-145b2d2e0c77)
 
