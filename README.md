@@ -1,4 +1,4 @@
-#JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
+# JEE Activities (encadrant : Professeur Mohamed YOUSSFI)
 
 This repository contains :
 
@@ -39,5 +39,5 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/ebanking-backend
 
 #activity6 :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE/tree/main/angulartp6
-rapport (en cours)
+
 
